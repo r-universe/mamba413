@@ -8,9 +8,6 @@
 [submodule "abess"]
 	path = abess
 	url = https://github.com/cran/abess
-[submodule "cdcsis"]
-	path = cdcsis
-	url = https://github.com/cran/cdcsis
 [submodule "robustlm"]
 	path = robustlm
 	url = https://github.com/cran/robustlm
